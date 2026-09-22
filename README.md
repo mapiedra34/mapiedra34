@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mapiedra34
-- 👀 Co-Founder and Software Developer at ZeroPhase Systems
+- 👀 Founder and Software Developer at ZeroPhase Systems
 - 🌱 I’m currently working on a project with my team
 - 💞️ I’m looking to learn and grow as a developer
 - 📫 How to reach me markpiedra@zerophasesystems.com
