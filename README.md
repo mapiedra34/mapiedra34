@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on a project with my team
 - 💞️ I’m looking to learn and grow as a developer
 - 📫 How to reach me markpiedra@zerophasesystems.com
-- ⚡ Fun fact: I work for Microsoft as a data center technician and completed my Masters in software application development
+- ⚡ Fun fact: Go Birds 
 
 <!---
 mapiedra34/mapiedra34 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
